@@ -6,7 +6,7 @@ and can be freely used, modified, altered, for both personal and commercial uses
 
 <div align="center">
   <kbd>
-    <img src=["https://github.com/ZeroZipMFG/branding/zerozip_logo_final.svg"](https://github.com/ZeroZipMFG/branding/blob/main/zerozip_logo_final.svg) />
+    ["https://github.com/ZeroZipMFG/branding/zerozip_logo_final.svg"](https://github.com/ZeroZipMFG/branding/blob/main/zerozip_logo_final.svg) 
   </kbd>
 </div>
 
